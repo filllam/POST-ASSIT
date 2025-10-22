@@ -1,0 +1,5 @@
+{
+  "name": "貼文生成助手",
+  "description": "上傳一張圖片，選擇心情與語氣，讓 AI 為您創作一篇精彩的社群貼文。支援多國語言與語音朗讀。",
+  "requestFramePermissions": []
+}
